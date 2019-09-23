@@ -160,7 +160,7 @@ $(function(){
       $(".animated-intro").typed({
         strings: 
 
-        ["I'm Rahul, <b>29. </b> <br> I live in <b> Bangalore, India. </b>" ,
+        ["I'm Rahul, <b>31. </b> <br> I live in <b> Bangalore, India. </b>" ,
 
         "I'm post grad in <b> Interaction Design </b> <br> from IIT Bombay.",    		  
         
