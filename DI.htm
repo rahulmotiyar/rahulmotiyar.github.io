@@ -176,14 +176,19 @@ c1 {text-align: center;}
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+/* Create three unequal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
-  padding: 10px;
-  /* Should be removed. Only for demonstration */
+  padding: 0px;
 }
 
+.left, .right {
+  width: 30%;
+}
+
+.middle {
+  width: 5%;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -414,7 +419,7 @@ c1 {text-align: center;}
 
                     
 
-  <div class="column" style="background-color:White;">
+  <div class="column left" style="background-color:White;">
   <p><h4><b>PROJECT BRIEF</b></h4>
               
 <p>The project brief is to deliver a common and consistent user experience across MR, CT & X-Ray consoles by 
@@ -424,9 +429,9 @@ c1 {text-align: center;}
         
   </p></div>
   
+  <div class="column middle" style="background-color:White;"></div>                      
                         
-                        
-  <div class="column" style="background-color:White;">
+  <div class="column right" style="background-color:White;">
   <p>
     
                        
