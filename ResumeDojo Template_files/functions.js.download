@@ -160,15 +160,13 @@ $(function(){
       $(".animated-intro").typed({
         strings: 
 
-        ["I'm Rahul, <b>31. </b> <br> I live in <b> Bangalore, India. </b>" ,
+        ["I'm Rahul, <b>35. </b> <br> I'm a <b> UX Designer, Researcher</b> <br>based in Eindhoven, Netherlands.</b>" ,
 
-        "I'm post grad in <b> Interaction Design </b> <br> from IIT Bombay.",    		  
+        "I help organisations to strategically <b>build <br> meaning products for their customers & users.",    		  
         
-        "I'm a <b> passionate </b> movie maker. <br> Have shot few <b>short movies</b>!.",
-        
-        "I like to spend my weekends with <br> <b> my vintage players</b>, <b> books </b> and <b> Chai</b>!.",
+        "I'm also a hobbyist <br><b>movie maker & audiophile</b>",
 
-        "Have a look at my <br> <b> Portfolio </b> for professional projects.",
+        "Take a look at my <br> <b> Portfolio </b> for professional work.",
 
         "But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."], 			
 
