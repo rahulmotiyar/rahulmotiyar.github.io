@@ -160,17 +160,13 @@ $(function(){
       $(".animated-intro").typed({
         strings: 
 
-        ["I'm Rahul, <b>35. </b> <br> I live in <b> Eindhoven, Netherlands. </b>" ,
+        ["I'm Rahul, <b>35. </b>",
 
-        "I'm a <b> UX Designer</b> <br> graduated from IIT Bombay, India.",    		  
-        
-        "I'm a <b> hobbyist </b> movie maker & audiophile.</b>!.",
-        
-        "I like to spend my weekends with <br> <b> my vintage players</b>, <b> books </b> and <b> Chai</b>!.",
-
+        "I'm a <b> UX Designer, Researcher</b> <br> based in Eindhoven, Netherlands.",    		  
+        "I help organisations to strategically build meaningful products for their customers & users.",	
+        "I'm also a <b> hobbyist </b> movie maker and audiophile.</b>!.",
         "Have a look at my <br> <b> Portfolio </b> for professional work.",
-
-        "But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."], 			
+	"But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."], 			
 
         //just wrote what text you want to appear
         
