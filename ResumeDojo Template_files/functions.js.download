@@ -160,7 +160,7 @@ $(function(){
       $(".animated-intro").typed({
         strings: 
 
-        ["I'm Rahul, <b>35. </b> <br> I'm a <b> UX Designer, Researcher</b> <br>based in Eindhoven, Netherlands.</b>" ,
+        ["I'm a <b> UX Designer, Researcher<br></b> <br>based in Eindhoven, Netherlands.</b>" ,
 
         "I help organisations to strategically <b>build <br> meaning products for their customers & users.",    		  
         
