@@ -158,22 +158,11 @@ $(document).ready(function(){
 ********************************************************/
 $(function(){
       $(".animated-intro").typed({
-        strings: 
-
-        ["I'm a <b> UX Designer, Researcher </b> <br> based in Eindhoven, Netherlands.",
-
-        "I help organisations to <br><b> build meaninful products</b>",   
-	
-        "for their customers & users.",   
-        
-        "I'm also a hobbyist <br><b>movie maker & audiophile</b>",
-
-        "Take a look at my <br> <b> Portfolio </b> for professional work.",
-
-        "But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."], 			
-
-        //just wrote what text you want to appear
-        
+        strings: ["I'm Rahul<b>35</b>. <br>I'm UX <b>Designer, Researcher based in <b>Eindhoven, Germany</b>.",
+        		  "I help organisations to strategically <br>build meaningful products for their customers & users.",
+        		  "I'm also a <b> hobbyist </b> movie maker and audiophile.</b>!.",
+        		  "Have a look at my <br> <b> Portfolio </b> for professional work.",
+			  "But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."], 			//just wrote what text you want to appear
         typeSpeed: 0,
         backSpeed: 0,
         loop: true,
@@ -181,6 +170,9 @@ $(function(){
         backDelay: 2000,
       });
   });
+  
+  
+  
 
 /**************************************************************************
 			Function to load Process vertical progress bars 
