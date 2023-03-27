@@ -158,11 +158,19 @@ $(document).ready(function(){
 ********************************************************/
 $(function(){
       $(".animated-intro").typed({
-        strings: ["I'm Rahul<b>35</b>. <br>I'm UX <b>Designer, Researcher based in <b>Eindhoven, Germany</b>.",
-        		  "I help organisations to strategically <br>build meaningful products for their customers & users.",
-        		  "I'm also a <b> hobbyist </b> movie maker and audiophile.</b>!.",
-        		  "Have a look at my <br> <b> Portfolio </b> for professional work.",
-			  "But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."], 			//just wrote what text you want to appear
+        strings: 
+	
+	["I'm Rahul, <b>35. </b> <br> I live in <b> Eindhoven, Netherlands. </b>" ,
+
+        "I'm an <b> Interaction Designer </b> <br> with 10 years of experience.",    		  
+        
+        "I'm a <b> hobbiyst </b> movie maker. <br> & Audiophile!..",
+
+        "Have a look at my <br> <b> Portfolio </b> for professional projects.",
+
+        "But don't miss out the <b> Tinkering </b> section<br> for my <b> night out projects</b>!."],
+	
+	//just wrote what text you want to appear
         typeSpeed: 0,
         backSpeed: 0,
         loop: true,
