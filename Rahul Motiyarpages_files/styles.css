@@ -134,7 +134,7 @@ p#date, h3#todayDay, .navbar-brand b,
 .top-br, .left-br,
 .bottom-br, .right-br{
 	position: fixed;
-	background: #fff;
+	background: #8d979a;
 	z-index: 9;
 }
 .top-br{
