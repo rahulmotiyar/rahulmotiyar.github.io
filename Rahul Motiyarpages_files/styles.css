@@ -46,9 +46,9 @@ body{
 	margin: 0; 
 	padding: 0;
 	width: 100%;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'CentraleSans;
 	font-size: 100%;
-	background: #fff;
+	background: #8d979a;
 	position: relative;
 }
 section{padding: 8% 0 90px 0}
@@ -134,7 +134,7 @@ p#date, h3#todayDay, .navbar-brand b,
 .top-br, .left-br,
 .bottom-br, .right-br{
 	position: fixed;
-	background: #8d979a;
+	background: #fff;
 	z-index: 9;
 }
 .top-br{
