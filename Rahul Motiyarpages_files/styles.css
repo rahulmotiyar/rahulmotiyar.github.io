@@ -56,7 +56,7 @@ section{padding: 8% 0 90px 0}
 /***************************************
 				2.Typography 
 ****************************************/
-.front-name, .front-tags{font-size: 10px}
+.front-name, .front-tags{font-size: 14px}
 .navbar-default a,
 .section-bg .fa, .process-head b, .slide b.text-uppercase,
 .price-plan li:first-child, .contact-form button[type="submit"], .fixed-right-socials .fa,
@@ -966,10 +966,10 @@ header:before{
 	margin: 0 auto 24px auto;
 	width: 100%;
 }
-.blog-intro hr{margin: 25px auto 27px;}
+/*.blog-intro hr{margin: 25px auto 27px;}*/
 .blog-intro b{
 	text-transform: capitalize;
-	height: 40px;
+	height: 0px;
 	display: block;
 }
 .blog-intro a{
@@ -981,7 +981,7 @@ header:before{
 	border: 1px solid #fff;
 	border-radius: 0;
 	background: #333;
-	color: #ccc;
+	color: #505050;
 	font-weight: bold;
 	transform: translateY(200px);
 	transition: .1s transform .2s ease-in-out;
