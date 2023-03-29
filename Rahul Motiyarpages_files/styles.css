@@ -1138,8 +1138,8 @@ header:before{
 
 	/* Post content */
 	.post-content{
-		/*padding: 30px;*/
-		margin: 60px 0;
+		padding: 60px;
+		/*margin: 60px 0;*/
 		letter-spacing: 1.2px;
 		line-height: 1.6;
 	}
