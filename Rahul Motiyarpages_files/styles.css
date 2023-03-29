@@ -955,8 +955,8 @@ header:before{
 
 .blog-intro{
 	position: relative;
-	margin-top: 30px;
-	margin-bottom: 50px;
+	/*margin-top: 30px;*/
+	margin-bottom: 60px;
 	background: #fff;
 	cursor: pointer;
 	padding: 20px 20px 15px;
