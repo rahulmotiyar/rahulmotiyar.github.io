@@ -204,7 +204,7 @@ iframe{
 	.title:before{
 		content:"";
 		position:absolute;
-		background:#199cdb;
+		/*background:#199cdb;*/
 		height:2px;
 		left:0;
 		top: -20px;
