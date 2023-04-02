@@ -218,7 +218,7 @@ p#date, h3#todayDay, .navbar-brand b,
 	height: 31px;
 	padding: 9px 0;
 	line-height: 11px;
-	margin-left: 15px !important;
+	/*margin-left: 15px !important;*/
 	margin-top: 30px;
 	position: relative;
 	text-indent: 35px;
