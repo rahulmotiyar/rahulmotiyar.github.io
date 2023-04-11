@@ -213,16 +213,16 @@ p#date, h3#todayDay, .navbar-brand b,
 }
 
 .navbar-brand{
-	border: 1px solid #fff;
-	width: 177px;
+	/*border: 1px solid #fff;*/
+	width: 175px;
 	height: 31px;
 	padding: 9px 0;
 	line-height: 11px;
-	margin-left: 15px !important;
+	/*margin-left: 15px !important;*/
 	margin-top: 30px;
 	position: relative;
 	text-indent: 35px;
-	background: url("") no-repeat 10px 50%;
+	/*background: url("../images/logo.png") no-repeat 10px 50%; */
 }
 .navbar-brand:before{
 	content: "";
@@ -231,7 +231,7 @@ p#date, h3#todayDay, .navbar-brand b,
 	left: 35px;
 	width: 2px;
 	height: 100%;
-	border-right: 1px solid #fff;
+	/*border-right: 1px solid #fff;*/
 }
 .navbar-header img{
 	float: left;
