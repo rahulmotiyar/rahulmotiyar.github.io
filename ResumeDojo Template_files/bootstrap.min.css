@@ -218,9 +218,12 @@ td,th{
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 30px 30px 30px 30px;
+    margin: 0px 150px 0px 150px;
     grid-gap: 20px;
     background: white;
     text-align: right;
+    border-left: 1px solid #ecf1f4;
+    
 }
 
 
@@ -2921,7 +2924,7 @@ a.btn.disabled,fieldset[disabled] a.btn{
     text-decoration:none
 }
 .btn-group-lg>.btn,.btn-lg{
-    padding:10px 16px;
+    margin-top: 1padding:10px 16px;
     line-height:1.3333333;
     border-radius:0px;
     background-color: transparent;
