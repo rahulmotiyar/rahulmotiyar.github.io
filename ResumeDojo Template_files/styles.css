@@ -1979,7 +1979,7 @@ header:before{
 
 .navbar-fixed-top .navbar-brand{
 	/*border: 1px solid #333;*/
-	background: url("../images/logo-fixed.png")no-repeat 10px 50%;
+	/*background: url("../images/logo-fixed.png")no-repeat 10px 50%;*/
 }
 /*.navbar-fixed-top .navbar-brand:before{border-right: 1px solid #333}*/
 .navbar-fixed-top .navbar-brand b{color: #333 !important;}
