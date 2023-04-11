@@ -214,18 +214,12 @@ td,th{
 }
 
 
-.flex-container {
-    display: flex;
-}
-
-.flex-child {
-    flex: 1;
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
     border: 2px solid yellow;
-}  
-
-.flex-child:first-child {
-    margin-right: 20px;
-} 
+}
 
 
 
