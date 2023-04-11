@@ -216,7 +216,7 @@ td,th{
 
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1.05fr;
     padding: 30px 30px 30px 30px;
     margin: 50px 150px 0px 150px;
     grid-gap: 20px;
@@ -2930,9 +2930,10 @@ a.btn.disabled,fieldset[disabled] a.btn{
     line-height:1.3333333;
     border-radius:0px;
     background-color: transparent;
-    border-color:#777;
-    text-color:#777;
+    border-color:#c7c7c7;
+    color:#555;
     font-size:14px;
+    padding:10px;
 }
 .btn-group-sm>.btn,.btn-sm{
     padding:5px 10px;
