@@ -2919,10 +2919,9 @@ a.btn.disabled,fieldset[disabled] a.btn{
 }
 .btn-group-lg>.btn,.btn-lg{
     padding:10px 16px;
-    font-size:18px;
     line-height:1.3333333;
-    border-radius:0px
-    background-color: white;
+    border-radius:0px;
+    background-color: transparent;
     border-color:#777;
     text-color:#777;
     font-size:14px;
