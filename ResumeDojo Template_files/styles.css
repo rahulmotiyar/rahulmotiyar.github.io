@@ -1570,7 +1570,7 @@ header:before{
 			4.13 Footer/Contacts section  
 ****************************************/
 footer{
-	padding: 10% 0% 90px 0%;
+	/*padding: 10% 0% 90px 0%;*/
 }
 /*footer h2{margin: 15px 0 5px 30px}*/
 footer .section-bg{ border: 1px solid #a7a7a8 }
