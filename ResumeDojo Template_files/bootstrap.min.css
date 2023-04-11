@@ -218,7 +218,7 @@ td,th{
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 30px 30px 30px 30px;
-    margin: 0px 150px 0px 150px;
+    margin: 50px 150px 0px 150px;
     grid-gap: 20px;
     background: white;
     text-align: right;
