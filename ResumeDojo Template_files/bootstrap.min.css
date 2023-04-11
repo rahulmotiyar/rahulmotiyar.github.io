@@ -1136,8 +1136,8 @@ hr{
     color:#777
 }
 .h1,.h2,.h3,h1,h2,h3{
-    margin-top:100px;
-    margin-bottom:0px
+    margin-top:200px;
+    margin-bottom:40px
 }
 .h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small{
     font-size:65%
